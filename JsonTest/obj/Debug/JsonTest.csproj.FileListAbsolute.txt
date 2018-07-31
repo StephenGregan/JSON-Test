@@ -1,0 +1,10 @@
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\bin\Debug\JsonTest.exe.config
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\bin\Debug\JsonTest.exe
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\bin\Debug\JsonTest.pdb
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\obj\Debug\JsonTest.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\obj\Debug\JsonTest.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\obj\Debug\JsonTest.csproj.CopyComplete
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\obj\Debug\JsonTest.exe
+C:\Users\Ronan\source\repos\JsonTest\JsonTest\obj\Debug\JsonTest.pdb
